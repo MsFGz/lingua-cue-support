@@ -8,4 +8,4 @@
 运营者：史一阳
 联系邮箱：yannshi101@gmail.com
 
-GitHub Pages 从 main 分支根目录发布，无构建依赖、表单或跟踪脚本。
+GitHub Pages 从 codex/pages-support 分支根目录发布，无构建依赖、表单或跟踪脚本。
