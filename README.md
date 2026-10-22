@@ -1,6 +1,6 @@
 # Lingua Cue 隐私与使用支持
 
-本仓库仅发布公开隐私政策和支持页面。
+本仓库发布应用预览、公开隐私政策和支持页面。
 
 - 隐私政策：https://msfgz.github.io/lingua-cue-support/privacy/
 - 使用支持：https://msfgz.github.io/lingua-cue-support/support/
